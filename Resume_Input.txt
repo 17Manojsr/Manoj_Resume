@@ -1,0 +1,104 @@
+You are a powerful language model trained by OpenAI. Your task is to parse the given resume into a structured JSON format.
+
+The resume will contain sections such as Personal Information, Skills, Education, Internships, Projects, Achievements, Certifications, Seminars/Trainings/Workshops, Co-Curricular Activities, Extra-Curricular Activities, Personal Interests/Hobbies, and Web Links.
+
+Example Input:
+"""
+MANOJ S R
+B.Tech. - CSE - Big Data Analytics
+Ph: +91-6380727478
+Email: mr1152@srmist.edu.in
+Chennai, Tamil Nadu, India - 600089
+LinkedIn: https://www.linkedin.com/in/manoj-sasikumar/
+
+Python JavaScript HTML CSS MySQL Tableau Machine Learning R
+
+BRIEF SUMMARY
+Highly motivated Computer Science Engineering senior with internship experience in Machine Learning and Data Science seeking a Software Engineering role. Possesses strong programming and analytical skills, demonstrated through diverse project experience encompassing software and hardware applications. Committed to delivering reliable, user-friendly software that meets user needs and business objectives.
+
+KEY EXPERTISE
+
+EDUCATION
+SRM Institute of Science & Technology, Ramapuram 2021 - 2025
+B.Tech. - CSE - Big Data Analytics | CGPA: 9.11 / 10
+Sri Amman Matriculation higher secondary school, Salem 2021
+12th | Tamilnadu StateBoard | Percentage: 90.50 / 100
+Sri Amman Matriculation higher secondary school, Chennai 2019
+10th | Tamilnadu StateBoard | Percentage: 92.40 / 100
+
+INTERNSHIPS
+IoTIoT.in | Technology 24 Jan, 2024 - Present
+Artificial Intelligence Intern
+Key Skills: Python Tensorflow OpenCV Data Handling Problem-Solving and Teamwork Version Control
+Developed and implemented a wildlife species detection project utilizing TensorFlow, CocoAPI, and Protobuf, achieving accurate predictions for 9 classes of wildlife species. Conducted weekly updates with the project head, showcasing progress and addressing any issues or improvements needed. Leveraged TensorFlow for model development and CocoAPI for dataset annotation, demonstrating proficiency in using cutting-edge AI tools and frameworks for complex computer vision tasks. Created comprehensive documentation to ensure the model's functionality and accuracy were well-documented for future reference and potential enhancements. Demonstrated a strong commitment to conservation efforts and ecosystem preservation through the delivery of tangible results.
+
+Mentorness | Consultancy 25 Dec, 2023 - 25 Jan, 2024
+Machine Learning Intern
+Key Skills: Python Scikit-learn Statistics Version Control supervised and unsupervised learning
+During my internship at Mentorness, I leveraged Python along with machine learning libraries such as Pandas and Scikit-learn to analyze historical data, enabling insightful decision-making processes. Presented findings to senior management, facilitating informed decision-making and showcasing the impact of data analytics on business strategy. Developed a machine learning model that significantly reduced false positives for credit card approvals by 80%, demonstrating the ability to create models that improve operational efficiency and customer satisfaction. Contributed to business growth by optimizing inventory and marketing strategies based on data-driven insights, leading to increased sales revenue and enhancing the company's competitive edge.
+
+PROJECTS
+Aura SmartCycle - Website 15 Jan, 2024 - 14 Feb, 2024
+Team Size: 4
+Key Skills: HTML CSS JavaScript React MaterialUI
+Project Link: https://github.com/17Manojsr/Aura-Smart-Cycle.git
+Led the development of Aura, a sophisticated web application aimed at revolutionizing the cycling experience by integrating AI technology for intuitive navigation, optimal performance, and precise control, resulting in safer and more enjoyable rides. Implemented real-time bike availability, booking, and in-app unlocking, along with advanced tracking systems, precision braking, and extended battery life technology, ensuring a smooth and uninterrupted cycling experience. Designed a user-friendly interface that caters to cyclists of all levels, adapting to various cycling environments with ease, and supported by reliable customer support for a seamless experience.
+
+Healthcare - Analysis 11 Sep, 2023 - 06 Nov, 2023
+Key Skills: Python Pandas Numpy Tableau matplotlib seaborn
+Project Link: https://github.com/17Manojsr/Healthcare_analysis.git
+Conducted a thorough descriptive analysis of the NIDDK dataset, addressing missing values in critical columns and ensuring data integrity. Generated a comprehensive classification report, evaluating model performance with sensitivity, specificity, AUC, and other key parameters. Utilized Tableau for dashboard visualization, creating interactive charts and graphs to effectively communicate findings, highlighting expertise in data visualization and presentation.
+
+Brain Tumor Detection - Image Processing 15 Mar, 2023 - 15 May, 2023
+Key Skills: Python OpenCV Pillow Tensorflow
+Project Link: https://github.com/17Manojsr/Brain_Tumor_Detection.git
+Developed a GUI application for detecting and visualizing brain tumor regions in MRI images, utilizing TensorFlow for model development and OpenCV for image processing, including marker-based watershed segmentation for precise tumor detection. Utilized TensorFlow models to accurately identify the presence of tumors within MRI images, enhancing diagnostic capabilities and potentially expediting treatment decisions. Contributed to improving healthcare outcomes by facilitating early detection and intervention for individuals affected by brain tumors.
+
+Covid Bed Slot Booking System - Website 17 Nov, 2022 - 01 Feb, 2023
+Team Size: 3
+Key Skills: Python Flask MySQL Version Control XAMPP Server
+Project Link: https://github.com/17Manojsr/Covid-bed-slot-booking-system.git
+Developed a web application for managing COVID bed slots, utilizing Flask for backend development and MySQL for database management, hosted on an XAMPP server. The application facilitated the registration of patients, storage of their details, and computerized billing for beds in hospitals. Implemented a unique ID system for patients, ensuring efficient management and tracking of patient information. Utilized Flask-SQLAlchemy for database operations, Flask-Mail for sending notifications, and Flask-Login for user authentication, demonstrating proficiency in integrating various Flask extensions for a comprehensive web solution.
+
+ACHIEVEMENTS
+Achieved 5th position out of 50 competing teams in the SAMHITA Web Development Hackathon organized by Madras Institute of Technology.
+
+ASSESSMENTS / CERTIFICATIONS
+TCS iON NQT - Cognitive Examination 20 Mar, 2026
+Aggregate: 1096.82 / 1800
+Key Skills: Numerical Ability Verbal Ability Reasoning Ability
+Successfully completed the TCS iON NQT - Cognitive Examination, a comprehensive assessment designed by Tata Consultancy Services (TCS) to evaluate and enhance digital skills and competencies. This examination is part of TCS's initiative to update and validate digital competencies, ensuring candidates are equipped with the necessary skills for the evolving IT industry. The examination covers a wide range of topics, including problem-solving, analytical thinking, and digital literacy, making it a valuable addition to my professional development.
+
+Data Scientist Master’s program
+Aggregate: 95 / 100
+Key Skills: Python R Machine Learning Tableau SQL Data Analytics Statistics
+Completed the Data Scientist Master’s program, a comprehensive course in collaboration with IBM, focusing on mastering essential skills in data science. The program covered Python, SQL, Excel, Machine Learning, Tableau, Generative AI, prompt engineering, and among others. It emphasized deep dives into data interpretation, Machine Learning, and programming, preparing for top data scientist roles. Utilizing an integrated blended learning approach, it combined live, online, instructor-led classes with self-paced learning. Industry-recognized certifications from Simplilearn and IBM were obtained upon completion. A capstone project allowed for the practical application of skills in solving real-world data science problems.
+
+IBM Data Science
+Aggregate: 97 / 100
+Key Skills: Python MySQL Data Analysis Data Visualization Machine Learning PowerBI
+Completed the IBM Data Science Professional Certificate, an online, non-credit program that provided comprehensive training in Data Science and Machine Learning by Coursera. This program enhanced my skills in Python, SQL, and data visualization, and equipped me with the knowledge to develop and implement Machine Learning models. Through hands-on labs and assignments, including a Capstone Project, I applied and demonstrated my data science skills in real-world scenarios, solidifying my expertise in the field. Eagerly expanding my Data Science skills through self-study and additional online courses, constantly seeking opportunities to enhance my expertise.
+
+SEMINARS / TRAININGS / WORKSHOPS
+Python Workshop Institute Name: Cybernaut 10 Jan, 2022 - 13 Jan, 2022
+Key Skills: Python
+Participated in the Python Workshop by Cybernaut, a comprehensive course designed to enhance programming skills and knowledge in Python. This program provided in-depth coverage of Python fundamentals, including syntax, data structures, control flow, and object-oriented programming. Through hands-on projects and practical exercises, I developed proficiency in Python, enabling me to write efficient and effective code. The course also emphasized the importance of problem-solving and critical thinking, preparing me for real-world programming challenges. This training has significantly contributed to my technical skills and readiness for roles requiring Python expertise.
+
+CO-CURRICULAR ACTIVITIES
+Volunteered at Muskurahat Foundation, a nonprofit organization focused on children's welfare, contributing to their mission.
+
+EXTRA CURRICULAR ACTIVITIES
+Achieved a significant milestone by winning the prestigious Journal level football match, showcasing leadership and sportsmanship qualities.
+
+PERSONAL INTERESTS / HOBBIES
+Travelling
+Reading and Learning
+
+WEB LINKS / IMs
+Skype - https://join.skype.com/invite/B87jccZIWmba
+Github - https://github.com/17Manojsr/
+Codechef - https://www.codechef.com/users/manojsasikumar
+Personal - https://www.datascienceportfol.io/manojsasikumar
+"""
+
+
